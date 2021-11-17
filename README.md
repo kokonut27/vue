@@ -8,7 +8,7 @@ This directory is a brief example of a [Vue.js](https://vuejs.org/) app that can
 
 Deploy this Vue.js app!
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vue-xi-eight.vercel.app/)
+[![Deploy with Vercel](https://vercel.com/button)](https://vue-jbyt27.vercel.app/)
 
 ### Deploying From Your Terminal
 
